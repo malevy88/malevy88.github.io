@@ -1,0 +1,126 @@
+# Site
+version: 2
+
+# Personal info
+name: Marcus Levy
+title: IT Support Specialist
+email: madlevy88@gmail.com
+
+# Social links
+twitter_username: marcuslevy88
+github_username:  malevy88
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+#instagram_username: 
+linkedin_username: marcus-levy-54877953/
+# pinterest_username:
+# youtube_username:
+
+# About Section
+# about_title: About Me
+about_profile_image: images/me.jpg
+about_content: |
+  Hi, my name is Marcus Levy, I'm a tech support administrator with over 5 years experience.
+  I am currently working for Nicolet High School as an IT Support Specialist with an emphasis on Apple endpoint deployment and administration.
+
+  I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
+  I like working creating clean and efficient developer experiences to allow developers to focus on code quality and the end user experience.
+  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
+  with something new. The things and tools that I currently have the most experience working with are:
+  <mark>MacOS & iOS</mark>,
+  <mark>Jamf Pro</mark>,
+  <mark>Azure</mark>,
+  <mark>Bash</mark> and
+  <mark>Python (basic)</mark>.
+
+content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: Nicolet High School
+        sub_title: IT Support Specialist
+        caption: February 2022 - Present
+        description: |
+          I currently am in charge of the deployment and management of all Apple devices in the district, ensuring seamless integration and optimal performance for both staff and students.
+          Leveraging Jamf Pro, I oversee the lifecycle of MacOS and iOS devices including automated enrollment, policy and profile management, application packaging and deployment, 
+          task automation, and inventory management. 
+
+          I also assist in the day to day operation of network support for all devices, as well as support for the various hardware that is utiziled in the district.
+          More recently I have been working on learning the ins and out of our infrastructure, learning how to manage users, printers, etc in Active Directory, PaperCut, Google Admin, etc.
+
+      - layout: left
+        border: weak
+        title: Rite Hite 
+        sub_title: IT Support Specialist
+        caption: September 2022 - January 2022
+        description: |
+          In this role, I was responsible for providing level 1 support to customers, staff service technicians, and employees. This support included troubleshooting and resolving
+          issues for Windows based devices, Office 365, Salesforce, JDE Enteprise, Vizor/Airwatch asset tracking, MFP, etc. I also assisted in the deployment of new hardware and software
+          license as needed as well.
+
+          This was done utilizing our custome built knowledge base  and ticketing system, Team Viewer for remote sessions, and Active Directory for user management.
+
+      - layout: left
+        border: weak
+        title: Rescue Dog Technology
+        sub_title: Senior IT Technician
+        caption: February 2021 - September 2022
+        description: |
+          
+      - layout: left
+        border: weak
+        title: Pewaukee School District
+        sub_title: Network Support Technician
+        caption: August 2020 - February 2021
+        description: |
+
+          
+      - layout: left
+        border: weak
+        title: F Street Hospitality
+        sub_title: Executive Chef
+        caption: July 2013 - August 2020
+        description: |
+          I started in the company as a hot line cook working part time while I was at Wauwatosa School District. I quickly was trained in all aspects of the kitchen and after
+          a few years, I was offered the position of Sous Chef. My responsibilites increased to include ordering, menu planning for specials, and leading stations on busy nights of service. 
+          After a few years in this role, I was promoted to Chef De Cuisine, where I gained more responsibilites including inventory management, scheduling, and leading the kitchen 
+          in the absence of the Executive Chef. It was in 2019 that I was promoted to Executive Chef.
+
+      - layout: left
+        title: Wauwatosa School District
+        sub_title: Computer Support Specialist
+        caption: August 2012 - August 2015
+        description: |
+          I was responsible for providing support and training dor staff and students across 7 different locations within the district. This included support for Windows and Mac devices, 
+          thin clients, chromebooks, etc. I also assisted in project work including the deployment of new hardware and software, as well as the management of the districts inventory.
+
+  - title: Education
+    layout: list
+    content:
+      - title: Uinversity of Wisconsin - Milwaukee
+        sub_title: BS - Information Science and Technology
+        caption: 2007 - 2012
+        description: |
+          During my degree at UWM, I learned the basics of IT including networking, system administration & design, as well as basic programming (Python,
+          Javascript, HTML/CSS, PHP). I also learned about the basics of project management and how to work in a team to deliver a successful projects and presentations.
+          
+
+  - title: When I'm Not Working
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      When I'm not at work I enjoy spending time with my wife and our two cats, Milo and Thanos. 
+      I also enjoy strength training and running. One of my current goals is to run the Milwaukee Half Marathon in April 2025 in sub 3 hours. 
+      Some of my other interests include dining out at local restaurants, pretending I still can skateboard, and nerding out over sneakers and clothes.
+      
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+# sass:
+#   style: compressed
