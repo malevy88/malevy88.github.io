@@ -8,11 +8,11 @@ email: madlevy88@gmail.com
 
 # Social links
 twitter_username: marcuslevy88
-github_username:  malevy88
+github_username: malevy88
 # dribbble_username:
 # facebook_username:
 # flickr_username:
-#instagram_username: 
+#instagram_username:
 linkedin_username: www.linkedin.com/in/marcus-levy-54877953
 # pinterest_username:
 # youtube_username:
@@ -24,10 +24,10 @@ about_content: |
   Hi, my name is Marcus Levy, I'm a tech support administrator with over 8 years experience.
   I am currently working for Nicolet High School as an IT Support Specialist with an emphasis on Apple endpoint deployment and administration.
 
-  I am currently studying for my AZ-104 certifcation, as I am looking to move into a system/cloud administrator role. 
-  Other plans include getting my CCNA certification, as well as LPIC-1 and 2.
+  I am currently studying for my AZ-104 certifcation, as I am looking to learn more about system and cloud administration. 
   The things and tools that I currently have the most (recent) experience working with are:
   <mark>MacOS & iOS</mark>,
+  <mark>Apple School Manager</mark>
   <mark>Jamf Pro</mark>,
   <mark>Azure</mark>,
   <mark>Bash</mark> and
@@ -48,11 +48,11 @@ content:
           task automation, and inventory management. 
 
           I also assist in the day to day operation of network support for all devices, as well as support for the various hardware that is utiziled in the district.
-          More recently I have been working on learning the ins and out of our infrastructure, learning how to manage users, printers, etc in Active Directory, PaperCut, Google Admin, etc.
+          More recently I have been working on learning the ins and out of our infrastructure, helping manage users, printers, etc in Active Directory, PaperCut, Google Admin, etc.
 
       - layout: left
         border: weak
-        title: Rite Hite 
+        title: Rite Hite
         sub_title: IT Support Specialist
         caption: September 2022 - January 2022
         description: |
@@ -60,7 +60,7 @@ content:
           issues for Windows based devices, Office 365, Salesforce, JDE Enteprise, Vizor/Airwatch asset tracking, MFP, etc. I also assisted in the deployment of new hardware and software
           license as needed as well.
 
-          This was done utilizing our custome built knowledge base  and ticketing system, Team Viewer for remote sessions, and Active Directory for user management.
+          This was done utilizing our custome built knowledge base  and ticketing system, TeamViewer for remote sessions, and Active Directory for user management.
 
       - layout: left
         border: weak
@@ -84,7 +84,7 @@ content:
           providing support for staff and students devices. This included troubleshooting and resolving issues for Windows devices, Chromebooks, HP printers, Smartboards, etc.
 
           I was also solely responsible for managing our Jamf Pro instance for all district iPads. This included app procurement and deployment, policy and profile management,
-    
+
       - layout: left
         border: weak
         title: F Street Hospitality
@@ -118,7 +118,7 @@ content:
         description: |
           During my degree at UWM, I learned the basics of IT including networking, system administration & design, as well as basic programming (Python,
           Javascript, HTML/CSS, PHP). I also learned about the basics of project management and how to work in a team to deliver a successful projects and presentations.
-          
+
           I also had the pleasure of working on campus for the Nurse Learning Resource Center in the school of nursing. My responsibilites included recording/indexing all student simulations,
           assisting with managing and upkeep of student computer lab, and repairing/maintaining simulation dolls and equipment.
 
@@ -126,15 +126,13 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       When I'm not at work I enjoy spending time with my wife and our two cats, Milo and Thanos. 
-      I also enjoy strength training and running. One of my current goals is to run the Milwaukee Half Marathon in April 2025 in sub 3 hours. 
+      I also enjoy strength training and running. One of my recent goals that I accomplished was running the Milwaukee Half Marathon in April of 2025. 
       Some of my other interests include dining out at local restaurants, pretending I still can skateboard, and nerding out over sneakers and clothes.
-      
 
 # Footer
 footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
-
 # sass:
 #   style: compressed
